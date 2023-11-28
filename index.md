@@ -1,9 +1,10 @@
+#Methodology Website
+
 Dean Carrion (dcarrion@ucsd.edu)
 
 Section: A11
 
 Mentor: Biwei Huang
-
 
 <strong>What is the most interesting topic covered in your domain this quarter?</strong>
 The most interesting topic covered in my domain this quarter was estalblishing causality between Sea surface temperatures
@@ -20,3 +21,5 @@ One potential change I would make to the approach taken in my current Quarter 1 
 <strong>What other techniques would you be interested in using in your project?</strong>
 One technique I would be interested in using in my project is predictive machine learning ai to predict whether future
    use of things such as gas powered cars will have much worse consequences in the near or far future.
+
+<iframe src="assets/example-map.html" width=800 height=600 frameBorder=0></iframe>
