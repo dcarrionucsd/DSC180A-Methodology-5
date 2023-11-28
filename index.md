@@ -22,4 +22,3 @@ One potential change I would make to the approach taken in my current Quarter 1 
 One technique I would be interested in using in my project is predictive machine learning ai to predict whether future
    use of things such as gas powered cars will have much worse consequences in the near or far future.
 
-<iframe src="assets/example-map.html" width=800 height=600 frameBorder=0></iframe>
